@@ -6,7 +6,7 @@
     <message>
       <source>Text for translation</source>
       <comment>commenting</comment>
-      <translation type="unfinished">Text for translation</translation>
+      <translation>Texto para la traducción</translation>
     </message>
     <message>
       <source>This is some text.</source>
