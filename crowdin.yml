@@ -1,12 +1,4 @@
 files:
-  - source: /*.po
-    translation: /translations/%language%/**/%original_file_name%
-  - source: /*.json
-    translation: /translations/%language%.json
-
-
-
-files:
 - source: /**/en-GB/*.ini
   translation: /**/%locale%/%locale%.%file_name%.ini
   translation_replace: { 
