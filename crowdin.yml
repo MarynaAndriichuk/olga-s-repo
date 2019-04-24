@@ -14,3 +14,8 @@ files:
   translation_replace: { 
   "en-GB." : "" 
   }
+  - source: /README.md
+  translation: /READ_de.md
+  content_segmentation: 0
+  }
+  
