@@ -1,5 +1,5 @@
-Ist das dieses monat?
+Is it really the end of January? Already?
 
-## Gatsby ist
+## Gatsby is now our static site generator
 
-## Documente
+## Developer documentation
