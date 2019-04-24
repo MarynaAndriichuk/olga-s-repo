@@ -1,4 +1,5 @@
 files:
   - source: /README.md
+    content_segmentation: 0
     translation: /READ_%two_letters_code%.md
     content_segmentation: 0
