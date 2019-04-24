@@ -1,5 +1,5 @@
-Is it really the end of January? Already?
+Ist das dieses monat?
 
-## Manuall ubersetzung
+## Gatsby ist
 
-## Developer documentation
+## Documente
