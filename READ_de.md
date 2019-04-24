@@ -1,5 +1,1 @@
-
-
-
-
 Was ist ein Auto?
