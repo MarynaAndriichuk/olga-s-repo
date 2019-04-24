@@ -10,7 +10,7 @@ After using the Xmas break to port [Simon](/en/patterns/simon) — not exactly t
 
 Seven patterns have now been ported. That might not seem like much, but it does get rather tedious every time we make a change that touches the patterns, as we then have 7 to update. So I decided to put the pattern porting on hold for a while, and instead focus my attention on [our new beta website](/en/).
 
-## Gatsby is now our static site generator
+## Manuall ubersetzung
 
 The new website is built on top of [Gatsby](https://www.gatsbyjs.org/), a static site generator written in JavaScript and powered by [React](https://reactjs.org/). We've been fairly committed to [the JAMstack architecture](/en/blog/freesewing-goes-jamstack) here at freesewing.org.
 
