@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: for-github\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2019-04-25 14:22\n"
+"PO-Revision-Date: 2019-11-15 09:56\n"
 "Last-Translator: Marynka Andriichuk (a_maryna)\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "Text"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "Text"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
