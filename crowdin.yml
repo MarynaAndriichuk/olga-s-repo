@@ -1,4 +1,6 @@
 files:
-  - source: /README.md
-    translation: /test/READ_%two_letters_code%.md
+  - source: /*
+    translation: /test/%language%/%two_letters_code%.*
+    multilingual_spreadsheet: 1
+    scheme: 'identifier,context,source_phrase,de,bg,zh-CN'
     content_segmentation: 0
