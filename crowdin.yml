@@ -1,3 +1,0 @@
-files:
-  - source: /*.xml
-    translation: /localized/%language%/%original_file_name%.xml
