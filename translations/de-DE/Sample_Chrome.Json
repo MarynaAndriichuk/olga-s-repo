@@ -1,7 +1,7 @@
 {
   "appName": {
-    "message": "string 1",
-    "description": "context"
+    "message": "Contact",
+    "description": "This is a button for contacting the support"
   },
   "extName": {
     "message": "string 2",
