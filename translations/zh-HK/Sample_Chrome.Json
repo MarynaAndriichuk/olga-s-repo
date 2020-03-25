@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Contact",
+    "description": "This is a button for contacting the support"
+  },
+  "extName": {
+    "message": "string 2",
+    "description": "context"
+  },
+  "extDesc": {
+    "message": "string 3",
+    "description": "context"
+  }
+}
