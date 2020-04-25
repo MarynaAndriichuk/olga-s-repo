@@ -1,11 +1,7 @@
-export_languages: [
+export_languages:
   "zh-CH"
-]
-files: [
-{
+files: 
     "source": /*.md,
     "translation": /%locale%_%original_file_name%,
-    "translation_replace": {
+    "translation_replace":
         zh-CH_" : ""
-}
-]
