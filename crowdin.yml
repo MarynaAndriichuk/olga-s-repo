@@ -1,6 +1,5 @@
-export_languages: [                                   
-    "de"
-    ]
+export_languages:
+  - de
 files:
   - source: /*.xml
-    translation: /localized/%locale%/%original_file_name%
+    translation: /new/%locale%/%original_file_name%
