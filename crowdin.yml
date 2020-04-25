@@ -2,6 +2,6 @@ export_languages:
   - zh-CH
 files:
   - source: /*.md
-    translation: /overwrite/%locale%_%original_file_name%
+    translation: /%locale%_%original_file_name%
     translation_replace:
       zh-CH_: ''
