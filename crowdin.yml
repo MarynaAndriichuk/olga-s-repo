@@ -4,4 +4,4 @@ files:
   - source: /*.md
     translation: /%locale%_%original_file_name%
     translation_replace:
-      zh-CH_: ''
+      zh-CH_: ""
