@@ -1,5 +1,11 @@
-export_languages:
-  - de
-files:
-  - source: /*.xml
-    translation: /new/%locale%/%original_file_name%
+"export_languages": [
+  "zh-CH"
+]
+"files": [
+{
+    "source": /*.md,
+    "translation": /%locale%_%original_file_name%,
+    "translation_replace": {
+        zh-CH_" : ""
+}
+]
