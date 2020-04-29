@@ -1,5 +1,5 @@
 files:
-  - source: /*.xml
-    translation: /new_localization/%locale%/%original_file_name%
+  - source: /*.php
+    translation: /localized_files/%locale%/%original_file_name%
     translation_replace:
       zh-CH_: ''
