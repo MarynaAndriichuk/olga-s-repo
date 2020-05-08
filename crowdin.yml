@@ -1,6 +1,3 @@
 files:
   - source: /*.php
     translation: /localized_files/%android_code%/%original_file_name%
-    languages_mapping:
-    android_code:
-    ro: ro
