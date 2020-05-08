@@ -1,5 +1,6 @@
 files:
   - source: /*.php
-    translation: /localized_files/%locale%/%original_file_name%
-    translation_replace:
-      zh-CH_: ''
+    translation: /localized_files/%%android-code/%original_file_name%
+    langauge_mapping:
+    android_code:
+    ro: ro
