@@ -1,3 +1,3 @@
 files:
-  - source: /*.xml
+  - source: '*.json'
     translation: /localized_files%locale%/%original_file_name%
