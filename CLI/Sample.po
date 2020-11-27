@@ -42,34 +42,3 @@ msgstr ""
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
 msgstr[0] ""
-msgstr[1] ""
-
-
-AMERICAN_TRUCKS_STATUE=[GOLD][BOLD]American Trucks[EOL][GRAY]990 [EOL][GOLD]Downloadable Map
-AREA51_PET_STATUE=[GOLD][BOLD]Area 51 Pet[EOL][GRAY]310 
-BACKPACKS_STATUE=[GOLD][BOLD]Backpacks[EOL][GRAY]160 
-BIG_FOOT_AND_YETI_STATUE=[GOLD][BOLD]Bigfoot + Yeti Mounts[EOL][GRAY]490 
-BIKE_PARKOUR_STATUE=[GOLD][BOLD]Bike Parkour[EOL][RED]830 [EOL][GOLD]Downloadable Map
-BOATS_STATUE=[GOLD][BOLD]Boats[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-CONSTRUCTION_VEHICLES_STATUE=[GOLD][BOLD]Construction Vehicles[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-DINO_ROCK_STATUE=[GOLD][BOLD]Rocketts Adventures[EOL][RED][ITALIC][BOLD]FREE![EOL][GOLD]Downloadable Map
-ENDER_DRAGON_STATUE=[GOLD][BOLD]Ender Dragon[EOL][GRAY]990 
-FRANKENSTEIN_STATUE=[GOLD][BOLD]Frankenstein + Friends[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-HOME_IMPROVEMENT_TELEVISION_STATUE=[GOLD][BOLD]Home Improvement Television[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-HAUNTED_SKYBLOCK_STATUE=[GOLD][BOLD]Haunted Skyblock[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-HIGH_SCHOOL_STATUE=[GOLD][BOLD]This is High School HD[EOL][GRAY]490 [EOL][GOLD]Skin Pack
-24_KARAT_PACK_STATUE=[GOLD][BOLD]24 Karat Pack[EOL][GRAY]990 [EOL][GOLD]Cosmetic Pack
-LIFE_IN_HOUSTON_STATUE=[GOLD][BOLD]Mission to Mars[EOL][GRAY]990 [EOL][GOLD]Downloadable Map
-LIFE_IN_TOKYO_STATUE=[GOLD][BOLD]Life in Tokyo[EOL][RED]830 [EOL][GOLD]Downloadable Map
-ROCKETS_ADVENTURE_2_STATUE=[GOLD][BOLD]Rocketts Adventures Episode 2[EOL][RED]490 [EOL][GOLD]Downloadable Map
-ROCKETS_ADVENTURE_3_STATUE=[GOLD][BOLD]Rocketts Adventures Episode 3[EOL][RED]490 [EOL][GOLD]Downloadable Map
-TPA_STATUE=[GOLD][BOLD]Trains, Planes & Automobiles[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-TRAINS_STATUE=[GOLD][BOLD]Trains[EOL][GRAY]660 [EOL][GOLD]Downloadable Map
-CHANGER_CAR_BOT_STATUE=[GOLD][BOLD]Changer Bot Car[EOL][GRAY]990 
-UBER_VIP_STATUE=[BOLD][GOLD]Uber VIP[EOL][BOLD][GRAY]490 [EOL][GOLD]VIP in all games[EOL][GOLD]All Access
-UNICORN_AND_RAINBOW_POOP_STATUE=[BOLD][RED]>>[LIGHT_PURPLE]NEW MOUNT[RED]<<[EOL][GOLD]Unicorn and the Rainbow Poop[EOL][BOLD][GRAY]490 
-WIZARDY_STATUE=[GOLD][BOLD]School of Wizardy[EOL][GRAY]830 [EOL][GOLD]Downloadable Map
-GORILLA_STATUE=[GOLD][BOLD]Planet of Gorillas[EOL][RED]830 [EOL][GOLD]Downloadable Map
-GAMETYPE_NPC=[BOLD][GOLD]{arg1}[EOL][GREEN]{arg2} players[EOL][GREEN]Tap to join
-LIGHT_OUT_STATUE=[GOLD][BOLD]Lights Out[EOL][RED]830 [EOL][GOLD]Downloadable Map
-UNDERWATER_BASE_STATUE=[GOLD][BOLD]Underwater Base[EOL][RED]830 [EOL][GOLD]Downloadable Map
