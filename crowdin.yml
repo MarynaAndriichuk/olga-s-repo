@@ -1,0 +1,5 @@
+files:
+  - source: /CLI/*.po
+    translation: /CLI/%two_letters_code%_translated/%original_file_name%
+  - source: /CLI/*.properties
+    translation: /CLI/%two_letters_code%_translated/%original_file_name%
