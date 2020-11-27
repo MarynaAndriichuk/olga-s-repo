@@ -1,3 +1,10 @@
-files:
-  - source: '*.json'
-    translation: /localized_files%locale%/%original_file_name%
+  - source: /CLI/*.po,
+      translation: /CLI/%two_letters_code%_translated/%original_file_name%,
+      languages_mapping:
+        two_letters_code:
+          de: den_po
+    - source: /CLI/*.properties,
+      translation: /CLI/%two_letters_code%_translated/%original_file_name%,
+      languages_mapping:
+        two_letters_code:
+          de: den_prop
