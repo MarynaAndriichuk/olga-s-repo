@@ -1,5 +1,8 @@
 files:
   - source: /*xliff
     translation: /GitHub-test/%two_letters_code%/%original_file_name%
+    anguages_mapping:
+        two_letters_code:
+          de: den_po
   - source: /*.properties
     translation: /GitHub-test/%two_letters_code%/%original_file_name%
