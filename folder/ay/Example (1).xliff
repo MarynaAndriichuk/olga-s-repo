@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="19704" original="/Example (AndroidXML).xml" source-language="en" target-language="ay" datatype="plaintext">
+    <body>
+      <trans-unit id="874396" maxwidth="20" size-unit="char">
+        <source>text</source>
+        <target>crwdns1090182:0crwdne1090182:0</target>
+        <note>Context</note>
+      </trans-unit>
+      <trans-unit id="874397">
+        <source>text 1</source>
+        <target>crwdns1090184:0crwdne1090184:0</target>
+        <note>Context 1</note>
+      </trans-unit>
+      <trans-unit id="874398">
+        <source>text 2</source>
+        <target>crwdns1090186:0crwdne1090186:0</target>
+        <context context-type="context">Context of the segment 2</context>
+      </trans-unit>
+      <trans-unit id="874399" translate="no">
+        <source>text 3</source>
+        <target>crwdns1090188:0crwdne1090188:0</target>
+        <note>Context 3</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
