@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: mondaydemo\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2021-07-19 13:01\n"
+"PO-Revision-Date: 2021-07-19 13:13\n"
 "X-Crowdin-SourceKey: msgstr\n"
 "Last-Translator: \n"
 "Language-Team: German-specific\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Language: de_SS\n"
 
 #: sample with translated string
-msgid "Text for translation"
+msgid "Text Hello"
 msgstr ""
 
 #: long string with new line
