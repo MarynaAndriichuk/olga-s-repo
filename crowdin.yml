@@ -1,3 +1,3 @@
 files:
-  - source: /*.xliff
-    translation: /localized/%two_letters_code%/%locale%.xliff
+  - source: /*.po
+    translation: /localized/new/%three_letters_code%/%original_file_name%
