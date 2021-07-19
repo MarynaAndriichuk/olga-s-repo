@@ -24,7 +24,7 @@ msgstr ""
 
 #: sample with translated string
 msgid "Text Hello"
-msgstr "Translated string"
+msgstr "Translated Hello"
 
 #: long string without new line
 msgid ""
