@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: mondaydemo\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2021-07-19 13:01\n"
+"PO-Revision-Date: 2021-07-19 13:06\n"
 "X-Crowdin-SourceKey: msgstr\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
@@ -25,12 +25,13 @@ msgstr ""
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "tradução\n"
+"tradução_2"
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Czas: %1 sekunda"
+msgstr[1] "Czas: %1 sekundy"
 
